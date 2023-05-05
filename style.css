@@ -1,0 +1,155 @@
+body{
+    background-image:url(./unsplash.jpg);
+}
+.content{
+    display: flex;
+    align-content: center;
+    border: 1px solid black;
+}
+nav{
+    position: absolute;
+width: 1740px;
+height: 101px;
+left: -12px;
+top: 0px;
+display: flex;
+color: #FFFFFF;
+align-items:center;
+justify-content: space-around;
+background: #000000;
+}
+.products{
+    position: absolute;
+left: 7.23%;
+right: 75.29%;
+top: 2.42%;
+bottom: 93.11%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 19px;
+line-height: 23px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.12em;
+font-variant: all-small-caps;
+
+color: #FFFFFF;
+}
+.discounts{
+    position: absolute;
+left: 24.71%;
+right: 57.81%;
+top: 2.42%;
+bottom: 93.11%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 19px;
+line-height: 23px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.12em;
+font-variant: all-small-caps;
+
+color: #FFFFFF;
+}
+
+.partners{
+    position: absolute;
+left: 57.93%;
+right: 24.59%;
+top: 2.42%;
+bottom: 93.11%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 19px;
+line-height: 23px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.12em;
+font-variant: all-small-caps;
+
+color: #FFFFFF;
+
+}
+.welcome{
+position: absolute;
+width: 442px;
+height: 78px;
+left: 637px;
+top: 274px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.3em;
+
+color: #FD7D54;
+border: 1px solid black;
+}
+
+.subheading{
+position:absolute;
+width: 635px;
+height: 42px;
+left: 542px;
+top: 370px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+border: 1px solid black;
+
+}
+.about{
+    position: absolute;
+left: 75.41%;
+right: 7.12%;
+top: 2.42%;
+bottom: 93.11%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 19px;
+line-height: 23px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.12em;
+font-variant: all-small-caps;
+
+color: #FFFFFF;
+
+}
+.component1{
+    border: 1px solid black;
+
+}
+.component2{
+    border: 1px solid black;
+
+}
+.component3{
+    border: 1px solid black;
+
+}
